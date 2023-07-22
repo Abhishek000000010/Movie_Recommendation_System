@@ -1,5 +1,5 @@
 # Movie_Recommendation_System
-this is a simple AIML project which is used to recommend the movies to user on the basis of the movie they watched or liked earlier.
+This is a simple AIML project which is used to recommend the movies to user on the basis of the movie they watched or liked earlier.
 This project includes two datasets. 
 1)5000 movies.
 2)5000 credits.
